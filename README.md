@@ -1,4 +1,4 @@
-## <a href="https://vexptracker.netlify.app/">Live demo 👈</a> check it out
+## <a href="https://vexptracker.netlify.app/" target="blank">Live demo 👈</a> check it out
 
 # Getting Started with Create React App
 
