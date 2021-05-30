@@ -1,7 +1,7 @@
 ## <a href="https://vexptracker.netlify.app/" target="blank">Live demo 👈</a> check it out
 
-web application to track your expenses on the go
-can be controlled by voice
+It's a Web application to track your expenses on the go<br />
+It can be controlled by voice<br />
 made using reactjs and Alan Ai
 
 # Getting Started with Create React App
