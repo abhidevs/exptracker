@@ -1,5 +1,6 @@
 {
   "name": "voice-powered-expense-tracker",
+  "author": "Abhik Das",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

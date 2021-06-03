@@ -21,4 +21,7 @@ export default makeStyles((theme) => ({
   divider: {
     margin: '10px 0',
   },
+  title: {
+    margin: 'auto 10px',
+  }
 }));
