@@ -14,6 +14,9 @@
 * [Features](#features)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
+    * [Set up](#set-up) 
+    * [Start](#start) 
+    * [Build](#build) 
 * [Dependencies](#dependencies)
 
 <a id="features"></a>
@@ -37,6 +40,7 @@
 ## 📦 Getting Started
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<a id="set-up"></a>
 #### Set up the project
 Clone the repository to your local machine.
 ```
@@ -44,6 +48,7 @@ git clone https://github.com/abhidevs/exptracker.git
 ```
 run this command on your terminal or you can download this repository as zip.
 
+<a id="start"></a>
 #### Start
 ```
 yarn start
@@ -51,6 +56,7 @@ yarn start
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits.
 
+<a id="build"></a>
 #### Build
 ```
 yarn build
