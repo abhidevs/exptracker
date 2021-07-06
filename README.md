@@ -49,9 +49,14 @@ git clone https://github.com/abhidevs/exptracker.git
 run this command on your terminal or you can download this repository as zip.
 
 <a id="start"></a>
+#### Download necessary dependencies
+```
+npm i
+```
+
 #### Start
 ```
-yarn start
+npm start
 ```
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits.
@@ -59,7 +64,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser. T
 <a id="build"></a>
 #### Build
 ```
-yarn build
+npm run build
 ```
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance. Your app is ready to be deployed!
