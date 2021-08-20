@@ -6,7 +6,7 @@ import { Provider } from './context/context'
 import './index.css'
 
 ReactDOM.render(
-    <SpeechProvider appId="fdd4dbf6-9a8a-4570-9680-f055ae1efeb8" language="en-US">
+    <SpeechProvider appId={process.env.REACT_APP_SPEECHLY_APP_ID} language="en-US">
         <Provider>
             <App />
         </Provider>
